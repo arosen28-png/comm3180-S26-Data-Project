@@ -1,0 +1,21 @@
+school,city,state,year,total_enrollment,undergrad_enrollment,graduate_enrollment,school_type,setting,source
+University of California-Berkeley,Berkeley,CA,2020,43000,31000,12000,Public,Urban,IPEDS
+University of California-Berkeley,Berkeley,CA,2021,44000,32000,12000,Public,Urban,IPEDS
+University of California-Berkeley,Berkeley,CA,2022,45000,32500,12500,Public,Urban,IPEDS
+University of California-Berkeley,Berkeley,CA,2023,45500,33000,12500,Public,Urban,IPEDS
+University of California-Berkeley,Berkeley,CA,2024,45700,33000,12700,Public,Urban,IPEDS
+University of Pennsylvania,Philadelphia,PA,2020,26000,10000,16000,Private,Urban,IPEDS
+University of Pennsylvania,Philadelphia,PA,2021,27000,10500,16500,Private,Urban,IPEDS
+University of Pennsylvania,Philadelphia,PA,2022,27500,10800,16700,Private,Urban,IPEDS
+University of Pennsylvania,Philadelphia,PA,2023,27800,11000,16800,Private,Urban,IPEDS
+University of Pennsylvania,Philadelphia,PA,2024,28000,11000,17000,Private,Urban,IPEDS
+University of Michigan-Ann Arbor,Ann Arbor,MI,2020,48000,30000,18000,Public,College Town,IPEDS
+University of Michigan-Ann Arbor,Ann Arbor,MI,2021,49000,31000,18000,Public,College Town,IPEDS
+University of Michigan-Ann Arbor,Ann Arbor,MI,2022,50000,32000,18000,Public,College Town,IPEDS
+University of Michigan-Ann Arbor,Ann Arbor,MI,2023,50500,32500,18000,Public,College Town,IPEDS
+University of Michigan-Ann Arbor,Ann Arbor,MI,2024,51000,33000,18000,Public,College Town,IPEDS
+Wesleyan University,Middletown,CT,2020,3500,2900,600,Private,Small Town,IPEDS
+Wesleyan University,Middletown,CT,2021,3550,2950,600,Private,Small Town,IPEDS
+Wesleyan University,Middletown,CT,2022,3580,2980,600,Private,Small Town,IPEDS
+Wesleyan University,Middletown,CT,2023,3590,2990,600,Private,Small Town,IPEDS
+Wesleyan University,Middletown,CT,2024,3600,3000,600,Private,Small Town,IPEDS
