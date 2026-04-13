@@ -29,7 +29,7 @@
     4. Analyze Population Trends
        - Look at whether university neighborhoods show: younger populations, seasonal changes, greater concentration of renters
     5. Compare Across Multiple Schools
-       - Could compare a larger urban university to a smaller college/college town school.
+       - Could compare a larger urban university to a smaller college/college town.
 
 
 
