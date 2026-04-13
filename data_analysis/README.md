@@ -33,7 +33,7 @@ This folder contains the Jupyter notebooks used to clean, analyze, and visualize
 - Key outputs:
   - Rent distribution across Philadelphia
   - Comparison of University City vs Philadelphia across key metrics
-  - Business activity by zip code
+  - Business activity by zip code.
 
 
 ### Overall Project Focus
