@@ -27,7 +27,6 @@
        - Look at whether university neighborhoods show: younger populations, seasonal changes, greater concentration of renters
     5. Compare Across Multiple Schools
        - Compare UPenn, UC Berkeley, U Michigan, and Weslyan University (larger urban university vs smaller colleges/college town schools)
----
 ### Final Presentation
 #### Overview
 1. Research question & hypothesis
