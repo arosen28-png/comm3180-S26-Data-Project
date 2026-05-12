@@ -19,17 +19,17 @@
   3. Planned analyses/initial findings.
      1. Identify University-Centered Areas
         - Begin by selecting a few universities and defining a radius around each campus. This also allows us to compare areas near campuses versus areas farther away
-    2. Analyze Rent Patterns
+     2. Analyze Rent Patterns
        - Compare average rent prices near universities versus citywide averages or non-campus neighborhoods
-    3. Analyze Business Density and Type
+     3. Analyze Business Density and Type
        - Examine how many businesses exist near campuses or what types of businesses cluster around schools
-    4. Analyze Population Trends
+     4. Analyze Population Trends
        - Look at whether university neighborhoods show: younger populations, seasonal changes, greater concentration of renters
-    5. Compare Across Multiple Schools
+     5. Compare Across Multiple Schools
        - Compare UPenn, UC Berkeley, U Michigan, and Weslyan University (larger urban university vs smaller colleges/college town schools)
 ### Final Presentation
 #### Overview
- 1. Research question & hypothesis
+1. Research question & hypothesis
         - Question: How much influence does Upenn have on local economies and urban life compared to the rest of Philadelphia?
         - Hypothesis: observable differences between university-adjacent and citywide patterns across crime, rent, and business type
     2. Data
