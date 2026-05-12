@@ -1,5 +1,5 @@
 
-### Initial Presentation
+## Initial Presentation
 ---
 #### Overview
   1. Research question and hypothesis
