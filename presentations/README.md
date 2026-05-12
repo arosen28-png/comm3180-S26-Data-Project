@@ -30,7 +30,7 @@
 ---
 ### Final Presentation
 #### Overview
-    1. Research question & hypothesis
+1. Research question & hypothesis
         - Question: How much influence does Upenn have on local economies and urban life compared to the rest of Philadelphia?
         - Hypothesis: observable differences between university-adjacent and citywide patterns across crime, rent, and business type
     2. Data
