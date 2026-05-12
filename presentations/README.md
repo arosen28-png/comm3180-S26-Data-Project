@@ -1,8 +1,8 @@
 
 ### Initial Presentation
 ---
-* Overview
-  1. Research question and hypothesis?
+#### Overview
+  1. Research question and hypothesis
      - Question: How much influence do universities have on local economies and urban life?
      - Hypothesis is that we will see:
        1. Rent inflation close to schools 
@@ -29,10 +29,10 @@
        - Compare UPenn, UC Berkeley, U Michigan, and Weslyan University (larger urban university vs smaller colleges/college town schools)
 ---
 ### Final Presentation
-* Overview
+#### Overview
     1. Research question & hypothesis
-        - Research question: How much influence does Upenn have on local economies and urban life compared to the rest of Philadelphia?
-        - observable differences between university-adjacent and citywide patterns across crime, rent, and business type
+        - Question: How much influence does Upenn have on local economies and urban life compared to the rest of Philadelphia?
+        - Hypothesis: observable differences between university-adjacent and citywide patterns across crime, rent, and business type
     2. Data
         - Crime:
               * Penn Clery Annual Security Reports (2020, 2022, 2025 ASRs covering 2017–2024)
@@ -60,7 +60,7 @@
               - Philadelphia's citywide concentration skews higher at $1,500–$1,999 (26%)
                 * Suggests University City rents cluster in a mid-range band rather than at the top
         - Business:
-        - Spatial comparison of business composition within 1,000m of Penn vs. outside University City, with license types put into broader categories —
+        - Spatial comparison of business composition within 1,000m of Penn vs. outside University City, with license types put into broader categories 
           * Infrastructure (building maintenance, waste systems) is the largest category near Penn at 35%
           * Housing dominates outside University City at 75%
               - suggests campus proximity shifts the local economic profile away from residential toward service/operational businesses
