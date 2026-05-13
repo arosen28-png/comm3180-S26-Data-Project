@@ -2,6 +2,7 @@
 
 ### 1. Blog Post
 
+Our blog combines data storytelling and visual analysis to examine how universities can function as powerful urban institutions that influence development, commercial activity, and everyday life beyond campus boundaries. Through a detailed investigation of Upenn and University city, the findings within the blog provide a comphrensive rundown of the most compelling touchpoints.
 
 ### 2. Newspaper Report
 Our creative output to go along with our project is a newspaper report on "The Penn Effect".
