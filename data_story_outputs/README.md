@@ -1,11 +1,23 @@
-## Blog post an of your data story and creative output for COMM318 Group Data Project
+## Blog Post and Creative Output
 
-* This folder should contain the files that contain the outputs of all your data analysis. 
+### 1. Blog Post
 
-1. You should create an engaging data blog that stands alone (i.e. it doesn't require the reader to look over all your analysis notebooks).
-2. Your creative output that presents you data story/findings in an engaging way. This could be a video, poster, web application, data dashboard, board game, song, etc, etc.
 
-* Update this README file to describe the content.
+### 2. Newspaper Report
+Our creative output to go along with our project is a newspaper report on "The Penn Effect".
+---
+https://canva.link/9dqun2tbufvi83v
+---
+Our May 2026 special edition report gives the reader an overview on how how UPenn shapes University City compared to the rest of Philadelphia. 
+There are four main sections:
+    1. Crime trends from 2017-2024 in the Penn Patrol zone
+    2. Philadelphia citywide homicde reports from 2015-2025
+    3. Univercity City rental market dynamics
+    4. Business license compostion comparing UCity to broader Philly
+
+Using visualizations on rent distribution, business composition, and crime trends, and an an editorial-style layout, the project highlights how Penn influences the economic and social structure of the surrounding neighborhood. 
+
+
 
 
 
